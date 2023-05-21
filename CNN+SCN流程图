@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-21T03:58:53.503Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="Yq0D7OSFL2CDu7rm5M93" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-21T10:53:40.447Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="vAS6VMGzT_CZUXixmyhw" version="21.3.2" type="github">
   <diagram name="第 1 页" id="E4jPuVkD-w6L5kygnqt7">
-    <mxGraphModel dx="783" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="713" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -49,6 +49,51 @@
         </mxCell>
         <mxCell id="z2huJWWbJAdGZErPA8X2-13" value="分类结果" style="whiteSpace=wrap;html=1;rounded=1;fontSize=15;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="670" y="250" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z2huJWWbJAdGZErPA8X2-28" value="服装数据集" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="60" y="390" width="106" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z2huJWWbJAdGZErPA8X2-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;strokeWidth=2;" edge="1" parent="1" target="z2huJWWbJAdGZErPA8X2-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="184" y="410" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="224" y="410" />
+              <mxPoint x="224" y="355" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z2huJWWbJAdGZErPA8X2-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="z2huJWWbJAdGZErPA8X2-28" target="z2huJWWbJAdGZErPA8X2-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="184" y="410" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="224" y="410" />
+              <mxPoint x="224" y="475" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z2huJWWbJAdGZErPA8X2-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;strokeWidth=2;" edge="1" parent="1" source="z2huJWWbJAdGZErPA8X2-32" target="z2huJWWbJAdGZErPA8X2-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z2huJWWbJAdGZErPA8X2-32" value="训练集" style="whiteSpace=wrap;html=1;rounded=1;fontSize=15;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="264" y="335" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z2huJWWbJAdGZErPA8X2-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=15;strokeWidth=2;" edge="1" parent="1" source="z2huJWWbJAdGZErPA8X2-34" target="z2huJWWbJAdGZErPA8X2-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z2huJWWbJAdGZErPA8X2-34" value="测试集" style="whiteSpace=wrap;html=1;rounded=1;fontSize=15;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="264" y="455" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z2huJWWbJAdGZErPA8X2-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;strokeWidth=2;" edge="1" parent="1" source="z2huJWWbJAdGZErPA8X2-36" target="z2huJWWbJAdGZErPA8X2-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z2huJWWbJAdGZErPA8X2-36" value="SCN分类器" style="whiteSpace=wrap;html=1;rounded=1;fontSize=15;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="450" y="455" width="116" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z2huJWWbJAdGZErPA8X2-37" value="分类结果" style="whiteSpace=wrap;html=1;rounded=1;fontSize=15;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="610" y="455" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z2huJWWbJAdGZErPA8X2-38" value="MC-CNN&lt;br&gt;特征提取器" style="whiteSpace=wrap;html=1;rounded=1;fontSize=15;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="380" y="330" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
