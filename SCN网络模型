@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-24T01:54:28.745Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="dfSejfmic74zwNhWmHDs" version="21.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-24T01:59:03.229Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="cQqvXIDTVV8ptYCOsaIh" version="21.3.3" type="github">
   <diagram name="第 1 页" id="Zl-yKapkO9XAn999rvtX">
     <mxGraphModel dx="582" dy="672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -167,13 +167,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QiLMAxTTBq8r15IECYUx-45" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="260" width="20" height="20" as="geometry" />
+          <mxGeometry x="380" y="270" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QiLMAxTTBq8r15IECYUx-46" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="270" width="20" height="20" as="geometry" />
+          <mxGeometry x="380" y="280" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QiLMAxTTBq8r15IECYUx-47" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="280" width="20" height="20" as="geometry" />
+          <mxGeometry x="380" y="290" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QiLMAxTTBq8r15IECYUx-50" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;w&lt;sub&gt;j&lt;/sub&gt;,b&lt;sub&gt;j&lt;/sub&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=bottom;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="108" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QiLMAxTTBq8r15IECYUx-51" value="β&lt;sub&gt;j&lt;/sub&gt;&lt;span style=&quot;font-family: -webkit-standard; font-size: medium; font-weight: 400; text-align: start;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=bottom;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="120" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
