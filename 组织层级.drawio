@@ -52,46 +52,46 @@
         <mxCell id="-D3OeH_YvxMqAxTXHGH9-9" value="其他部门" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="280" y="578" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-D3OeH_YvxMqAxTXHGH9-14" value="厂部" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="-D3OeH_YvxMqAxTXHGH9-14" value="厂部" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="445" y="247" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-D3OeH_YvxMqAxTXHGH9-15" value="办公室" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="-D3OeH_YvxMqAxTXHGH9-15" value="办公室" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="445" y="374" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-D3OeH_YvxMqAxTXHGH9-16" value="党建工作办公室" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="-D3OeH_YvxMqAxTXHGH9-16" value="党建工作办公室" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="445" y="311" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-D3OeH_YvxMqAxTXHGH9-17" value="纪检监察科" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="-D3OeH_YvxMqAxTXHGH9-17" value="纪检监察科" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="445" y="438" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-D3OeH_YvxMqAxTXHGH9-18" value="工会办公室" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="-D3OeH_YvxMqAxTXHGH9-18" value="工会办公室" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="445" y="501" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-D3OeH_YvxMqAxTXHGH9-19" value="人事劳资教育科" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="-D3OeH_YvxMqAxTXHGH9-19" value="人事劳资教育科" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="445" y="565" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-D3OeH_YvxMqAxTXHGH9-20" value="信息中心" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="-D3OeH_YvxMqAxTXHGH9-20" value="信息中心" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="505" y="247.5" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-D3OeH_YvxMqAxTXHGH9-21" value="生产技术科" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="-D3OeH_YvxMqAxTXHGH9-21" value="生产技术科" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="505" y="311.5" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-D3OeH_YvxMqAxTXHGH9-39" value="工程装备科" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="-D3OeH_YvxMqAxTXHGH9-39" value="工程装备科" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="505" y="628.5" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-D3OeH_YvxMqAxTXHGH9-40" value="安全管理科" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="-D3OeH_YvxMqAxTXHGH9-40" value="安全管理科" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="505" y="438.5" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-D3OeH_YvxMqAxTXHGH9-41" value="行政科" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="-D3OeH_YvxMqAxTXHGH9-41" value="行政科" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="505" y="501.5" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-D3OeH_YvxMqAxTXHGH9-42" value="制丝车间" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="-D3OeH_YvxMqAxTXHGH9-42" value="制丝车间" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="505" y="565.5" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-D3OeH_YvxMqAxTXHGH9-43" value="卷包车间" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="-D3OeH_YvxMqAxTXHGH9-43" value="卷包车间" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="505" y="374.5" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-D3OeH_YvxMqAxTXHGH9-44" value="动力车间" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="-D3OeH_YvxMqAxTXHGH9-44" value="动力车间" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="445" y="628" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-D3OeH_YvxMqAxTXHGH9-49" value="综合管理组" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
