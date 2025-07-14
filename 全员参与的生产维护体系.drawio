@@ -1,9 +1,36 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15" version="28.0.4">
   <diagram name="第 1 页" id="HhPs1EZaLCYy3aAjNoSq">
-    <mxGraphModel>
+    <mxGraphModel dx="946" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="gLbUjvjX7LZiNxLjqN4c-1" value="全员参与的生产维护体系" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="80" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gLbUjvjX7LZiNxLjqN4c-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gLbUjvjX7LZiNxLjqN4c-1" target="gLbUjvjX7LZiNxLjqN4c-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="385" y="160" as="sourcePoint" />
+            <mxPoint x="385" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gLbUjvjX7LZiNxLjqN4c-3" value="现场自主管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="200" width="198" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gLbUjvjX7LZiNxLjqN4c-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="gLbUjvjX7LZiNxLjqN4c-5" source="gLbUjvjX7LZiNxLjqN4c-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="535" y="170" as="sourcePoint" />
+            <mxPoint x="535" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gLbUjvjX7LZiNxLjqN4c-5" value="生产维修" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="200" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gLbUjvjX7LZiNxLjqN4c-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.192;exitY=1.025;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="gLbUjvjX7LZiNxLjqN4c-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="300" as="sourcePoint" />
+            <mxPoint x="240" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
